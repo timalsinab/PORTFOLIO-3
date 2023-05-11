@@ -36,7 +36,12 @@ nav{
 
 .logo{
     display: inline-block;
-    width :200px;
+    color:white;
+    text-decoration: none;
+    font-size: 18px;
+    position:relative;
+
+
 }
 
 nav ul li{
@@ -83,6 +88,16 @@ nav ul li a:hover::after{
 
 .header-text h1 span{
     color: #ff004f;
+}
+.header-text img{
+    height:250px;
+    width:250px;
+    float:right;
+    margin-right:300px;
+    margin-bottom: -100px;
+
+
+
 }
 
 /* -------------about------------*/
